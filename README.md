@@ -1,5 +1,5 @@
 # Getting Started with the weather app
-Live Demo [https://webdeveloper67.github.io/weather-report/](https://webdeveloper67.github.io/weather-report/)
+Live Demo [https://webdeveloper67.github.io/weather-casting/](https://webdeveloper67.github.io/weather-casting/)
 
 ## How to fork this project
 
