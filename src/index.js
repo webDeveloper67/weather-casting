@@ -8,7 +8,6 @@ import App from "./App";
 // MUI
 import { ThemeProvider } from "@material-ui/core/styles";
 import theme from "./theme";
-import "./App.css";
 
 ReactDOM.render(
   <ThemeProvider theme={theme}>

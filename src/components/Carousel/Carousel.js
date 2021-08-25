@@ -4,10 +4,10 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faArrowLeft, faArrowRight } from "@fortawesome/free-solid-svg-icons";
 // MUI
 import { Container, Grid, Box, Button } from "@material-ui/core";
+import "./Carousel.css";
 
 const Carousel = (props) => {
   const { children, show } = props;
-
 
   const [currentIndex, setCurrentIndex] = useState(0);
   const [length, setLength] = useState(children.length);
